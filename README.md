@@ -14,4 +14,12 @@ https://reach-in-box-sigma.vercel.app/
 
 ![Screenshot from 2024-08-16 06-36-28](https://github.com/user-attachments/assets/3b52924a-dfe9-4764-8698-f6c3d5ed6c6e)
 
+# Technologies
+HTML
+CSS
+JS
+React Js
+Axios
+Tailwing CSS
+Auth0
 
