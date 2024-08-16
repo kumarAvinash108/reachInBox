@@ -22,4 +22,11 @@ React Js
 Axios
 Tailwing CSS
 Auth0
+# More screenshots
+
+
+![Screenshot from 2024-08-16 06-41-29](https://github.com/user-attachments/assets/1d98562b-89b7-48e2-bf8c-80d2f4f27775)
+![Screenshot from 2024-08-16 06-41-21](https://github.com/user-attachments/assets/6b90a9de-c131-4a00-9777-095205c570c5)
+![Screenshot from 2024-08-16 06-41-15](https://github.com/user-attachments/assets/8f65da04-a868-43ce-a25c-4a03031a28e7)
+![Screenshot from 2024-08-16 06-41-07](https://github.com/user-attachments/assets/35167758-93ee-4eca-bd06-2da4a72deb34)
 
